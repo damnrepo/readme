@@ -1,6 +1,6 @@
 # readme
-🎈code master?!🎈
+<b><h1> 🎈code master?!🎈 </h1></b>
 
-💻tupa ya
-🎄lzt = https://lolz.live/ckamep/
-🎫ds = taxilzt
+<b> 💻tupa ya </b><br>
+<b> 🎄lzt = https://lolz.live/ckamep/ </b><br>
+<b> 🎫ds = taxilzt </b>
